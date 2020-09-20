@@ -1,0 +1,4 @@
+baseURL = "http://dominicandevops.blog/"
+languageCode = "en-us"
+title = "Dominican Devops Blog"
+theme = "hugo-theme-hello-friend"
