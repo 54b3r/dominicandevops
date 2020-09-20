@@ -2,4 +2,6 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/netwirep/public_html/
-    - /bin/cp -R * $DEPLOYPATH
+    - /bin/cp -R content $DEPLOYPATH
+    - /bin/cp -R static $DEPLOYPATH
+    - /bin/cp -R theme $DEPLOYPATH
