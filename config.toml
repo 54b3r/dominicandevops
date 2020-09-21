@@ -26,8 +26,8 @@ paginate = 5
 [languages]
   [languages.en]
     title = "Dominican Devops Blog"
-    subtitle = "A simple theme for Hugo"
-    keywords = ""
+    subtitle = "A DevOps blog written by a Dominican"
+    keywords = "devops,sre,platform,engineering,infrastructure,dominicandevops"
     copyright = ""
     menuMore = "Show more"
     writtenBy = "Written by"
