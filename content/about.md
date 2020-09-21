@@ -1,21 +1,10 @@
 +++
 title = "About"
-date = "2019-01-25"
-author = "Radek"
+date = "2020-09-21"
+author = "Marvin Matos"
+cover = "img/marvinWedding.jpg"
 +++
 
 # Hi there
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
-
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
-
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
-
-The theme includes:
-
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
-
-So, there you have it... enjoy!
+Marvin Matos is the author of the Dominican DevOps Blog and a Platform Engineer at WW, an international Health and Wellness company. He brings 7+ years of IT Industry experience surrounding Systems/Platform Engineering. He publishes this blog to assist aspiring DevOps/SRE professionals looking to start working towards becoming a DevOps or SRE professional, or improve their current skill set to get to the next level of engineering. He will use this blog to discuss solutions that hes implemented or paths hes taken to complete any relevant certifications `[AWS, GCP, CNCF]`.
