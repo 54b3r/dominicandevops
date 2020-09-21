@@ -1,4 +1,4 @@
-baseurl = "http://dominicandevops.blog/"
+baseurl = "/"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend"
 paginate = 5
@@ -11,21 +11,11 @@ paginate = 5
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
   # Enable to show reading time in minutes for posts
-  showReadingTime = true
-  
-  # My information
-  author = "Marvin Matoos"
-  description = "This page is a blog about devops, ill be using it to review some solutions that ive either implemented at work or am learning to forward my career"
-  bio = "Platform Engineer at WW International"
-  twitter = "mjmatos_nps"
-  copyright = "Marvin Matos"
-
-[social]
-  github = "https://github.com/54b3r"
+  showReadingTime = false
 
 [languages]
   [languages.en]
-    title = "Dominican Devops Blog"
+    title = "Hello Friend"
     subtitle = "A simple theme for Hugo"
     keywords = ""
     copyright = ""
