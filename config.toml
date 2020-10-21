@@ -1,58 +1,62 @@
-baseurl = "http://ecs.dominicandevops.blog"
+baseURL = "https://dominicandevops.blog"
+#CanonifyURLs=true
+
 languageCode = "en-us"
-theme = "hugo-theme-hello-friend"
-paginate = 5
+theme = "ramium"
+
+title = "Dominican DevOps Blog"
+disqusShortname = ""
+googleAnalytics = ""
+summaryLength = 40
+pluralizeListTitles = false
+enableemoji = true
 
 [params]
-  # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "post"
-  # "light" or "dark"
-  defaultTheme = "dark"
-  # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
-  # Enable to show reading time in minutes for posts
-  showReadingTime = true
-  
-  # My information
-  author = "Marvin Matoos"
-  description = "This page is a blog about devops, ill be using it to review some solutions that ive either implemented at work or am learning to forward my career"
-  bio = "Platform Engineer at WW International"
-  twitter = "mjmatos_nps"
-  copyright = "Marvin Matos"
+    description = "A blog thats all things DevOps/SRE"
+    googleSearch = ""
+    adsense = ""
+    showDate = true # make false if dont want to show date
+    math = false # best to enable this in the front matter of a page
+    githubProfile = "54b3r/"
 
-[social]
-  github = "https://github.com/54b3r"
+    tagsInHome = 40
+    sectionsInHome = 5
+    paginatePostsPerPage = 5
+    paginateTagsPerPage = 10
 
-[languages]
-  [languages.en]
-    title = "Dominican Devops Blog"
-    subtitle = "A DevOps blog written by a Dominican"
-    keywords = "devops,sre,platform,engineering,infrastructure,dominicandevops"
-    copyright = ""
-    menuMore = "Show more"
-    writtenBy = "Written by"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    minuteReadingTime = "min read"
-    dateFormatSingle = "2006-01-02"
-    dateFormatList = "2006-01-02"
+[taxonomies]
+    tag = "tags"
 
-    [languages.en.params.logo]
-      logoText = "hello friend"
-      logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
+[markup.goldmark.renderer]
+    unsafe = true
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
+        identifier = "blog"
+        name = "This Blog"
+        weight = 2
+            [[menu.main]]
+                parent = "blog"
+                name = "All Tags"
+                url = "/tags/"
+                weight = 1
+            [[menu.main]]
+                parent = "blog"
+                name = "All Sections"
+                url = "/sections/"
+                weight = 2
+            [[menu.main]]
+                parent = "blog"
+                name = "All Posts"
+                url = "/posts/"
+                weight = 3
+    
+    [[menu.main]]
+        name = "Author"
+        url = "/author/"
+        weight = 3

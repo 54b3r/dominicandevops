@@ -2,3 +2,9 @@
 	path = hugo-theme-hello-friend
 	url = https://github.com/panr/hugo-theme-hello-friend.git
 	branch = master
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
+[submodule "themes/ramium"]
+	path = themes/ramium
+	url = https://github.com/rafed/ramium.git

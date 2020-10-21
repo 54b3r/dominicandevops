@@ -1,75 +1,109 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dominican Devops Blog</title>
-    
-    
-    
-    <link>http://ecs.dominicandevops.blog/</link>
-    <description>Recent content on Dominican Devops Blog</description>
+    <title>Dominican DevOps Blog</title>
+    <link>https://dominicandevops.blog/</link>
+    <description>Recent content on Dominican DevOps Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Sep 1986 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://ecs.dominicandevops.blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 25 Mar 2020 04:52:30 +0600</lastBuildDate><atom:link href="https://dominicandevops.blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>http://ecs.dominicandevops.blog/about/</link>
-      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Deploy a hugo site to S3</title>
+      <link>https://dominicandevops.blog/posts/1.-markdown-syntax/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://ecs.dominicandevops.blog/about/</guid>
-      <description>
-        
-          &lt;img src=&#34;http://ecs.dominicandevops.blog/img/marvinWedding.jpg&#34;/&gt;
-          
-        
-        
-        
-          Hi there Marvin Matos is the author of the Dominican DevOps Blog and a Platform Engineer at WW, an international Health and Wellness company. He brings 7+ years of IT Industry experience surrounding Systems/Platform Engineering. He publishes this blog to assist aspiring DevOps/SRE professionals looking to start working towards becoming a DevOps or SRE professional, or improve their current skill set to get to the next level of engineering. He will use this blog to discuss solutions that hes implemented or paths hes taken to complete any relevant certifications [AWS, GCP, CNCF].
-          
-        
-        </description>
+      <guid>https://dominicandevops.blog/posts/1.-markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Showcase</title>
-      <link>http://ecs.dominicandevops.blog/showcase/</link>
-      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Rich Content</title>
+      <link>https://dominicandevops.blog/posts/3.-rich-content/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://ecs.dominicandevops.blog/showcase/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
-          
-        
-        </description>
+      <guid>https://dominicandevops.blog/posts/3.-rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Hello Friend</title>
-      <link>http://ecs.dominicandevops.blog/post/hello/</link>
-      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
+      <title>Emoji Support</title>
+      <link>https://dominicandevops.blog/posts/4.-emoji-support/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://ecs.dominicandevops.blog/post/hello/</guid>
-      <description>
-        
-          &lt;img src=&#34;http://ecs.dominicandevops.blog/img/hello.jpg&#34;/&gt;
-          
-        
-        
-        
-          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
-          
-        
-        </description>
+      <guid>https://dominicandevops.blog/posts/4.-emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://dominicandevops.blog/posts/5.-math-typesetting/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dominicandevops.blog/posts/5.-math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Happy Birthday Chords</title>
+      <link>https://dominicandevops.blog/posts/6.-happy-birthday-chords/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dominicandevops.blog/posts/6.-happy-birthday-chords/</guid>
+      <description>Happy ABirthday Eto youHappy EBirthday Ato youHappy A7Birthday dear DJohnnyHappy ABirthday Eto Ayou </description>
+    </item>
+    
+    <item>
+      <title>About Author</title>
+      <link>https://dominicandevops.blog/author/</link>
+      <pubDate>Mon, 06 Apr 2020 02:07:31 +0600</pubDate>
+      
+      <guid>https://dominicandevops.blog/author/</guid>
+      <description>Hi there Marvin Matos is the author of the Dominican DevOps Blog and a Platform Engineer at WW, an international Health and Wellness company. He brings 7+ years of IT Industry experience surrounding Systems/Platform Engineering. He publishes this blog to assist aspiring DevOps/SRE professionals looking to start working towards becoming a DevOps or SRE professional, or improve their current skill set to get to the next level of engineering.</description>
+    </item>
+    
+    <item>
+      <title>Admin Panel</title>
+      <link>https://dominicandevops.blog/admin/</link>
+      <pubDate>Mon, 06 Apr 2020 02:07:30 +0600</pubDate>
+      
+      <guid>https://dominicandevops.blog/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All Sections</title>
+      <link>https://dominicandevops.blog/sections/</link>
+      <pubDate>Mon, 06 Apr 2020 02:07:30 +0600</pubDate>
+      
+      <guid>https://dominicandevops.blog/sections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://dominicandevops.blog/getting-started-with-ramium/1.-tutorial/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dominicandevops.blog/getting-started-with-ramium/1.-tutorial/</guid>
+      <description>Full tutorial coming soon! </description>
+    </item>
+    
+    <item>
+      <title>Features of Ramium</title>
+      <link>https://dominicandevops.blog/introduction-to-ramium/2.-features-of-ramium/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dominicandevops.blog/introduction-to-ramium/2.-features-of-ramium/</guid>
+      <description>&lt;p&gt;Ramium is Packed with awesome features that makes your blog powerful and easy to use.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About Ramium</title>
+      <link>https://dominicandevops.blog/introduction-to-ramium/1.-about-ramium/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dominicandevops.blog/introduction-to-ramium/1.-about-ramium/</guid>
+      <description>Ramium is an awesome hugo theme for creating personal blogs. Apparently, none of the existing hugo themes were what I wanted them to be for my new blog. Or maybe I just could not find the right one. So I took upon the courtesy of making the perfect one for my own.</description>
     </item>
     
   </channel>
