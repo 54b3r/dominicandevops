@@ -1,38 +1,341 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>http://ecs.dominicandevops.blog/about/</loc>
-    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
-  </url>
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/tags/aws/</loc>
+	    <lastmod>2020-10-21</lastmod>
+        
+
+        
+	  </url>
+	  
   
-  <url>
-    <loc>http://ecs.dominicandevops.blog/showcase/</loc>
-    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
-  </url>
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/posts/1.-markdown-syntax/</loc>
+	    <lastmod>2020-10-21</lastmod>
+        
+
+        
+	  </url>
+	  
   
-  <url>
-    <loc>http://ecs.dominicandevops.blog/</loc>
-    <lastmod>1986-09-17T00:00:00+00:00</lastmod>
-  </url>
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/tags/go/</loc>
+	    <lastmod>2020-10-21</lastmod>
+        
+
+        
+	  </url>
+	  
   
-  <url>
-    <loc>http://ecs.dominicandevops.blog/post/hello/</loc>
-    <lastmod>1986-09-17T00:00:00+00:00</lastmod>
-  </url>
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/tags/hugo/</loc>
+	    <lastmod>2020-10-21</lastmod>
+        
+
+        
+	  </url>
+	  
   
-  <url>
-    <loc>http://ecs.dominicandevops.blog/post/</loc>
-    <lastmod>1986-09-17T00:00:00+00:00</lastmod>
-  </url>
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/posts/</loc>
+	    <lastmod>2020-10-21</lastmod>
+        
+
+        
+	  </url>
+	  
   
-  <url>
-    <loc>http://ecs.dominicandevops.blog/categories/</loc>
-  </url>
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/tags/s3/</loc>
+	    <lastmod>2020-10-21</lastmod>
+        
+
+        
+	  </url>
+	  
   
-  <url>
-    <loc>http://ecs.dominicandevops.blog/tags/</loc>
-  </url>
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/tags/spa/</loc>
+	    <lastmod>2020-10-21</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/tags/static-website/</loc>
+	    <lastmod>2020-10-21</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/tags/</loc>
+	    <lastmod>2020-10-21</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/tags/privacy/</loc>
+	    <lastmod>2020-04-14</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/posts/3.-rich-content/</loc>
+	    <lastmod>2020-04-14</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/tags/shortcodes/</loc>
+	    <lastmod>2020-04-14</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/tags/emoji/</loc>
+	    <lastmod>2020-04-13</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/posts/4.-emoji-support/</loc>
+	    <lastmod>2020-04-13</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/tags/katex/</loc>
+	    <lastmod>2020-04-12</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/tags/markdown/</loc>
+	    <lastmod>2020-04-12</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/tags/math/</loc>
+	    <lastmod>2020-04-12</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/posts/5.-math-typesetting/</loc>
+	    <lastmod>2020-04-12</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/tags/chords/</loc>
+	    <lastmod>2020-05-02</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/posts/6.-happy-birthday-chords/</loc>
+	    <lastmod>2020-05-02</lastmod>
+        
+	    <changefreq>never</changefreq>
+        
+
+        
+	    <priority>0.9</priority>
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/tags/music/</loc>
+	    <lastmod>2020-05-02</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/author/</loc>
+	    <lastmod>2020-04-06</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+  
+      
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/sections/</loc>
+	    <lastmod>2020-04-06</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/</loc>
+	    <lastmod>2020-03-25</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/getting-started-with-ramium/</loc>
+	    <lastmod>2020-03-19</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/tags/ramium/</loc>
+	    <lastmod>2020-03-19</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/getting-started-with-ramium/1.-tutorial/</loc>
+	    <lastmod>2020-03-19</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/introduction-to-ramium/2.-features-of-ramium/</loc>
+	    <lastmod>2020-03-18</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/introduction-to-ramium/</loc>
+	    <lastmod>2020-03-18</lastmod>
+        
+
+        
+	  </url>
+	  
+  
+      
+      
+	  <url>
+	    <loc>https://web.dominicandevops.blog/introduction-to-ramium/1.-about-ramium/</loc>
+	    <lastmod>2020-03-17</lastmod>
+        
+
+        
+	  </url>
+	  
   
 </urlset>

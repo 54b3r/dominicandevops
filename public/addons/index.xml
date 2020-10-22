@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Addons on Dominican DevOps Blog</title>
+    <link>https://web.dominicandevops.blog/addons/</link>
+    <description>Recent content in Addons on Dominican DevOps Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Apr 2020 02:07:31 +0600</lastBuildDate><atom:link href="https://web.dominicandevops.blog/addons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Author</title>
+      <link>https://web.dominicandevops.blog/author/</link>
+      <pubDate>Mon, 06 Apr 2020 02:07:31 +0600</pubDate>
+      
+      <guid>https://web.dominicandevops.blog/author/</guid>
+      <description>Hi there Marvin Matos is the author of the Dominican DevOps Blog and a Platform Engineer at WW, an international Health and Wellness company. He brings 7+ years of IT Industry experience surrounding Systems/Platform Engineering. He publishes this blog to assist aspiring DevOps/SRE professionals looking to start working towards becoming a DevOps or SRE professional, or improve their current skill set to get to the next level of engineering.</description>
+    </item>
+    
+    <item>
+      <title>Admin Panel</title>
+      <link>https://web.dominicandevops.blog/admin/</link>
+      <pubDate>Mon, 06 Apr 2020 02:07:30 +0600</pubDate>
+      
+      <guid>https://web.dominicandevops.blog/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All Sections</title>
+      <link>https://web.dominicandevops.blog/sections/</link>
+      <pubDate>Mon, 06 Apr 2020 02:07:30 +0600</pubDate>
+      
+      <guid>https://web.dominicandevops.blog/sections/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
