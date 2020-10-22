@@ -5,24 +5,24 @@
     
     
     
-    <link>http://dominicandevops.blog/</link>
+    <link>http://ecs.dominicandevops.blog/</link>
     <description>Recent content on Dominican Devops Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Sep 1986 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://dominicandevops.blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ecs.dominicandevops.blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://dominicandevops.blog/about/</link>
+      <link>http://ecs.dominicandevops.blog/about/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://dominicandevops.blog/about/</guid>
+      <guid>http://ecs.dominicandevops.blog/about/</guid>
       <description>
         
-          &lt;img src=&#34;http://dominicandevops.blog/img/marvinWedding.jpg&#34;/&gt;
+          &lt;img src=&#34;http://ecs.dominicandevops.blog/img/marvinWedding.jpg&#34;/&gt;
           
         
         
@@ -35,10 +35,10 @@
     
     <item>
       <title>Showcase</title>
-      <link>http://dominicandevops.blog/showcase/</link>
+      <link>http://ecs.dominicandevops.blog/showcase/</link>
       <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dominicandevops.blog/showcase/</guid>
+      <guid>http://ecs.dominicandevops.blog/showcase/</guid>
       <description>
         
           
@@ -55,13 +55,13 @@
     
     <item>
       <title>Hello Friend</title>
-      <link>http://dominicandevops.blog/post/hello/</link>
+      <link>http://ecs.dominicandevops.blog/post/hello/</link>
       <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
       
-      <guid>http://dominicandevops.blog/post/hello/</guid>
+      <guid>http://ecs.dominicandevops.blog/post/hello/</guid>
       <description>
         
-          &lt;img src=&#34;http://dominicandevops.blog/img/hello.jpg&#34;/&gt;
+          &lt;img src=&#34;http://ecs.dominicandevops.blog/img/hello.jpg&#34;/&gt;
           
         
         

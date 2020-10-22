@@ -1,4 +1,4 @@
-baseurl = "http://dominicandevops.blog/"
+baseurl = "http://ecs.dominicandevops.blog"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend"
 paginate = 5

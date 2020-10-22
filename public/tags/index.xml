@@ -5,12 +5,12 @@
     
     
     
-    <link>http://dominicandevops.blog/tags/</link>
+    <link>http://ecs.dominicandevops.blog/tags/</link>
     <description>Recent content in Tags on Dominican Devops Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://dominicandevops.blog/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ecs.dominicandevops.blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

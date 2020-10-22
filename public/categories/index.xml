@@ -5,12 +5,12 @@
     
     
     
-    <link>http://dominicandevops.blog/categories/</link>
+    <link>http://ecs.dominicandevops.blog/categories/</link>
     <description>Recent content in Categories on Dominican Devops Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://dominicandevops.blog/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ecs.dominicandevops.blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
